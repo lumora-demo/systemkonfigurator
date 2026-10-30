@@ -1,0 +1,9 @@
+{
+  "name": "@lumora/regeln",
+  "version": "0.3.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --experimental-strip-types --disable-warning=ExperimentalWarning --test \"src/**/*.test.ts\""
+  }
+}
